@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cadastro de Livros</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+        }
+
+        input,
+        button {
+            display: block;
+            margin-bottom: 12px;
+            padding: 8px;
+            width: 300px;
+        }
+
+        .mensagem {
+            margin-top: 20px;
+            color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Cadastrar Livro</h1>
+
+    <form id="formLivro">
+        <input type="text" id="titulo" placeholder="Título" required />
+        <input type="text" id="autor" placeholder="Autor" required />
+        <input type="text" id="editora" placeholder="Editora" />
+        <input type="number" id="ano" placeholder="Ano" />
+        <input type="number" id="quantidade" placeholder="Quantidade" />
+        <button type="submit">Salvar Livro</button>
+    </form>
+
+    <div class="mensagem" id="mensagem"></div>
+
+    <script src="js/livros.js"></script>
+</body>
+
+</html>
