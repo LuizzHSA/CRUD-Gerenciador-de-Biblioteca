@@ -28,3 +28,17 @@ exports.listarLivros = (req, res) => {
         }
     });
 };
+
+// Deletar um livro pelo ID
+exports.deletarLivro = (req, res) => {
+    const { id } = req.params;
+
+    db.query('DELETE FROM livros WHERE id = ?', [id], (err, result) => {
+        if (err) {
+            console.error('Erro ao deletar livro:', err);
+            res.status(500).send('Erro ao deletar livro');
+        } else {
+            res.send('Livro deletado com sucesso');
+        }
+    });
+};
