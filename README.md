@@ -1,5 +1,3 @@
-### ✅ `README.md`
-
 ````markdown
 📚 CRUD Biblioteca — Electron + SQLite + Bootstrap
 
