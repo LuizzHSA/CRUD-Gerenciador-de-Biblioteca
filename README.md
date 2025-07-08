@@ -69,8 +69,8 @@ crud-biblioteca/
 
 
 📸 Capturas de Tela
-![Captura de tela 2025-07-08 185425](https://github.com/user-attachments/assets/8471fa39-0094-4382-af43-b22e22e9b1bb)
-![Captura de tela 2025-07-08 185448](https://github.com/user-attachments/assets/1f903d1e-9d5e-49e0-bf87-78171e379785)
+(https://github.com/user-attachments/assets/8471fa39-0094-4382-af43-b22e22e9b1bb)
+(https://github.com/user-attachments/assets/1f903d1e-9d5e-49e0-bf87-78171e379785)
 
 👨‍💻 Autor
 
