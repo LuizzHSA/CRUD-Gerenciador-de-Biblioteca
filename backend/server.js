@@ -1,6 +1,11 @@
-const app = require('./app');
-const PORT = 3000;
+const express = require('express');
+const app = express();
 
-app.listen(PORT, () => {
-    console.log(`Servidor rodando em http://localhost:${PORT}`);
+app.get('/', (req, res) => {
+    res.send('Servidor funcionando!');
+});
+
+const port = process.env.PORT || 3000;
+app.listen(port, () => {
+    console.log(`Servidor rodando na porta ${port}`);
 });
