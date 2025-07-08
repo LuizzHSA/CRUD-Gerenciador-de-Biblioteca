@@ -68,10 +68,6 @@ crud-biblioteca/
 * 🔐 Validações mais completas nos formulários
 
 
-📸 Capturas de Tela
-https://github.com/user-attachments/assets/8471fa39-0094-4382-af43-b22e22e9b1bb
-https://github.com/user-attachments/assets/1f903d1e-9d5e-49e0-bf87-78171e379785
-
 👨‍💻 Autor
 
 Luiz Henrique Lopes de Sá
