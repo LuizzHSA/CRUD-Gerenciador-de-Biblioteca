@@ -42,23 +42,6 @@ npm install
 npm start
 
 
-📂 Estrutura do Projeto
-
-crud-biblioteca/
-├── db/                    # Banco de dados SQLite local
-│   └── database.sqlite
-├── frontend/              # HTML + Bootstrap + JS
-│   ├── index.html
-│   ├── livros.html
-│   └── js/
-│       ├── cadastro.js
-│       └── livros.js
-├── main.js                # Lógica principal do Electron
-├── preload.js             # Ponte entre frontend e backend
-├── package.json           # Scripts e dependências
-└── README.md              # Este arquivo ✨
-
-
 🚀 Futuras Melhorias
 
 * ✏️ Adicionar edição de livros
