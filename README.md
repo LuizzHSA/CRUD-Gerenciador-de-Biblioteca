@@ -29,7 +29,7 @@ Este é um projeto de **CRUD de Livros** com interface desktop, desenvolvido com
 
 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/crud-biblioteca.git
+git clone https://github.com/LuizzHSA/CRUD-Gerenciador-de-Biblioteca.git
 cd crud-biblioteca
 
 
