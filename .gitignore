@@ -20,3 +20,6 @@ Thumbs.db
 
 # Others
 *.local
+
+*.exe
+crud-biblioteca-electron/crud-biblioteca-win32-x64/
