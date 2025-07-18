@@ -1,7 +1,7 @@
 ````markdown
 📚 CRUD Biblioteca — Electron + SQLite + Bootstrap
 
-Este é um projeto de **CRUD de Livros** com interface desktop, desenvolvido com **Electron**, **SQLite** como banco de dados local e **Bootstrap** para o estilo visual.
+Este é um projeto de CRUD de Livros com interface desktop, desenvolvido com **Electron, SQLite como banco de dados local e **Bootstrap** para o estilo visual.
 
 
 🛠️ Tecnologias Utilizadas
@@ -20,7 +20,6 @@ Este é um projeto de **CRUD de Livros** com interface desktop, desenvolvido com
 - 📋 Listar livros cadastrados
 - 🗑️ Deletar livros
 - 💾 Salvar os dados localmente com SQLite
-- 🧪 App 100% offline (não precisa de internet ou servidor)
 - ⚡ Interface leve, responsiva e simples
 
 
